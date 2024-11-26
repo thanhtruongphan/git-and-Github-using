@@ -18,7 +18,7 @@ git commit -m "Initial commit: Describe your project or changes"
 git add filename1 filename2
 ```
 ### Go to GitHub and create a new repository
-# Copy the repository URL (use HTTPS or SSH)
+### Copy the repository URL (use HTTPS or SSH)
 
 ### Add the remote repository
 ```
